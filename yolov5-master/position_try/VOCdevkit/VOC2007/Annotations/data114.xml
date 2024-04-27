@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data_resized</folder>
+	<filename>data114.png</filename>
+	<path>C:\Users\Andrii\Pictures\yolo3_train_your_own_data_sets\train_data_resized\data114.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>636</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
